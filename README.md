@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/github/languages/count/joschonarth/ignite-shop?style=for-the-badge&color=1F8459&labelColor=1C1E26" alt="languages-count">
 </p>
 
+![product](https://github.com/user-attachments/assets/9c9d3be8-3633-47da-93d4-81e24c7602e6)
+
 ## 📖 Visão Geral
 
 **Ignite Shop** é uma aplicação de ecommerce desenvolvida com **Next.js** que explora conceitos avançados como Server-Side Rendering (SSR), Static Site Generation (SSG) e SPA. A aplicação é integrada com o Stripe para processamento de pagamentos e utiliza animações com o Keen Slider para uma experiência mais fluida e moderna.
