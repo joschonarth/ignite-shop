@@ -78,6 +78,8 @@ Inicie o servidor de desenvolvimento:
 npm run dev
 ```
 
+A aplicação estará disponível em: [http://localhost:3000](http://localhost:3000)
+
 ## 🧾 Configuração do Stripe
 
 Para que a aplicação funcione corretamente com a API do Stripe, siga os passos abaixo:
